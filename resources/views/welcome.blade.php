@@ -35,7 +35,7 @@
                     @endauth
                 </div>
             @endif
-            <h1>Coming Soon...</h1>
+            <h1>Something really cool is being prepared...</h1>
         </div>
     </body>
 </html>
